@@ -1,4 +1,4 @@
-## Beats and Bytes: A Statistical Symphony of Spotify’s best tracks 
+## BEATS AND BYTES: A STATISTICAL SYMPHONY OF SPOTIFY'S BEST TRACKS
 
 This project delves into the top-ranking songs on Spotify, exploring the intricate dynamics behind 
 global and regional music trends. Using data on track features like danceability, energy, tempo, and 
@@ -6,7 +6,7 @@ popularity, we uncover what makes a song a chart-topper. By examining patterns i
 content, album releases, and listener preferences across countries, this exploratory analysis offers 
 valuable insights into the evolving world of music streaming.  
 
-## Research Area
+## RESEARCH AREA
 
 <img width="1690" height="780" alt="image" src="https://github.com/user-attachments/assets/8805f9f9-1502-438d-94f1-eebfe07a9e8d" />
 
@@ -23,7 +23,7 @@ valuable insights into the evolving world of music streaming.
 <img width="927" height="434" alt="image" src="https://github.com/user-attachments/assets/b7782b63-34f8-4476-aace-9be939ec94f8" />
 
 
-#### KNN CLASSIFIER
+### KNN CLASSIFIER
 
 <img width="973" height="425" alt="image" src="https://github.com/user-attachments/assets/3a6fd043-8fe4-4b99-a4c6-7eb95b3160d1" />
 
