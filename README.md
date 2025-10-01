@@ -12,7 +12,7 @@ valuable insights into the evolving world of music streaming.
 
 ## BEST MODELS AFTER EXPERMINENTATION
 
-#### RANDOM FOREST 
+### RANDOM FOREST CLASSIFIER
 
 <img width="986" height="476" alt="image" src="https://github.com/user-attachments/assets/524bc1c9-08a6-4d75-ac63-3d1389a24849" />
 
@@ -23,13 +23,13 @@ valuable insights into the evolving world of music streaming.
 <img width="927" height="434" alt="image" src="https://github.com/user-attachments/assets/b7782b63-34f8-4476-aace-9be939ec94f8" />
 
 
-#### KNN 
+#### KNN CLASSIFIER
 
 <img width="973" height="425" alt="image" src="https://github.com/user-attachments/assets/3a6fd043-8fe4-4b99-a4c6-7eb95b3160d1" />
 
 <img width="967" height="469" alt="image" src="https://github.com/user-attachments/assets/7ced772a-2bdc-48ab-bf68-ea6f1b021d5d" />
 
-#### K-MEANS CLUSTERING
+### K-MEANS CLUSTERING
 
 <img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/358b0ac5-d190-43c7-be56-2bce48c1ad43" />
 
@@ -39,7 +39,7 @@ valuable insights into the evolving world of music streaming.
 
 <img width="830" height="412" alt="image" src="https://github.com/user-attachments/assets/94ee4da8-a39c-4326-859b-57c3b8513fb9" />
 
-#### TIME-SERIES DECOMPOSITION
+### TIME-SERIES DECOMPOSITION
 
 <img width="741" height="530" alt="image" src="https://github.com/user-attachments/assets/d075d5c8-f995-4ab6-bdb5-91b0ec1a3ac5" />
 
@@ -50,7 +50,7 @@ valuable insights into the evolving world of music streaming.
 <img width="485" height="305" alt="image" src="https://github.com/user-attachments/assets/45370a7d-9572-427a-8295-3bc56dc1634b" />
 
 
-#### FINDINGS
+## FINDINGS
 
 1. The analysis revealed that a song's popularity is influenced by a combination of song attributes rather than any single feature. Loudness, Danceability and energy drives popularity of songs. 
 2. Model Comparison: Random Forest Classification is a good choice while linear and logistic regression, perform poor on the data due to high skewness and non-linear associations between musical features and popularity of songs.
